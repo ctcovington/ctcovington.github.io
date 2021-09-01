@@ -1,4 +1,9 @@
-# Christian T. Covington 
+---
+layout: page
+title: Christian T. Covington
+tagline: 
+description:
+---
 
 <img src="christian_pic.jpg" alt="profile_picture" width="1000"/> 
 
