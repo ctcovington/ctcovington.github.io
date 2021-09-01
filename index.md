@@ -1,9 +1,4 @@
----
-layout: page
-title: Christian T. Covington
-tagline: 
-description: Christian Covington's website
----
+# Christian T. Covington 
 
 <img src="christian_pic.jpg" alt="profile_picture" width="1000"/> 
 
