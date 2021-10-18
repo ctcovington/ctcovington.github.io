@@ -17,6 +17,10 @@ I spent my first two years of college at the Eastman School of Music studying pe
 ---
 
 # Research
+- **Unbiased Statistical Estimation and ValidConfidence Intervals Under Differential Privacy** \\
+**Christian Covington**, Xi He, James Honaker, Gautam Kamath \\
+(<a href="papers/CHHK21.pdf" target="blank_">Pre-print</a>).
+
 - **Patient experiences of integrated care in Medicare accountable care organizations and Medicare Advantage versus traditional fee-for-service** \\
 Molly Frean, **Christian Covington**, Maike Tietschert, Hassina Bahadurzada, Jodi So, Sara J Singer \\
 *Medical Care* (2021) \\
@@ -45,8 +49,8 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, **Christ
 ---
 
 # Presentations
-- August 2021 - Presented "Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy" (joint work with Xi He, James Honaker, and Gautam Kamath) at Social Statistics Speed Session at the [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/index.cfm) (pre-print available soon)
-- July 2021 - Presented "Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy" (joint work with Xi He, James Honaker, and Gautam Kamath) at Poster Session at ICML [Theory and Practice of Differential Privacy Workshop](https://tpdp.journalprivacyconfidentiality.org/2021/) (pre-print available soon)
+- August 2021 - Presented "Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy" (joint work with Xi He, James Honaker, and Gautam Kamath) at Social Statistics Speed Session at the [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/index.cfm)
+- July 2021 - Presented "Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy" (joint work with Xi He, James Honaker, and Gautam Kamath) at Poster Session at ICML [Theory and Practice of Differential Privacy Workshop](https://tpdp.journalprivacyconfidentiality.org/2021/)
 
 --- 
 
