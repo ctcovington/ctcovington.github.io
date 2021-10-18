@@ -17,7 +17,7 @@ I spent my first two years of college at the Eastman School of Music studying pe
 ---
 
 # Research
-- **Unbiased Statistical Estimation and ValidConfidence Intervals Under Differential Privacy** \\
+- **Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy** \\
 **Christian Covington**, Xi He, James Honaker, Gautam Kamath \\
 (<a href="papers/CHHK21.pdf" target="blank_">Pre-print</a>).
 
