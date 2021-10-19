@@ -18,26 +18,26 @@ I spent my first two years of college at the Eastman School of Music studying pe
 
 # Research
 - **Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy** \\
-**Christian Covington**, Xi He, James Honaker, Gautam Kamath \\
+Christian Covington, Xi He, James Honaker, Gautam Kamath \\
 (<a href="papers/CHHK21.pdf" target="blank_">Pre-print</a>).
 
 - **Patient experiences of integrated care in Medicare accountable care organizations and Medicare Advantage versus traditional fee-for-service** \\
-Molly Frean, **Christian Covington**, Maike Tietschert, Hassina Bahadurzada, Jodi So, Sara J Singer \\
+Molly Frean, Christian Covington, Maike Tietschert, Hassina Bahadurzada, Jodi So, Sara J Singer \\
 *Medical Care* (2021) \\
 [[Paper](https://pubmed.ncbi.nlm.nih.gov/33273291/)]
 
 - **Differences in patient perceptions of integrated care among black, hispanic, and white Medicare beneficiaries** \\
-Emilia J Ling, Molly Frean, Jody So, Maike Tietschert, Nancy Song, **Christian Covington**, Hassina Bahadurazada, Sonia Khurana, Luis Garcia, Sara J Singer \\
+Emilia J Ling, Molly Frean, Jody So, Maike Tietschert, Nancy Song, Christian Covington, Hassina Bahadurazada, Sonia Khurana, Luis Garcia, Sara J Singer \\
 *Health Services Research* (2021) \\
 [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13637)]
 
 - **Variation in Patients’ Perceptions of Integrated Care Among Medicare Beneficiaries By Level of Need** \\
-Nancy Song, Molly Frean, **Christian Covington**, Maike Tietschert, Emilia Ling, Hassina Bahadurzada, Michaela Kerrissey, Mark Friedberg, Sara J Singer \\
+Nancy Song, Molly Frean, Christian Covington, Maike Tietschert, Emilia Ling, Hassina Bahadurzada, Michaela Kerrissey, Mark Friedberg, Sara J Singer \\
 *Academy Health Annual Research Meeting* (2019) \\
 [[Poster](https://academyhealth.confex.com/academyhealth/2019arm/meetingapp.cgi/Paper/32193)]
 
 - **Invertible Promoters Mediate Bacterial Phase Variation, Antibiotic Resistance, and Host Adaptation in the Gut** \\
-Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, **Christian T. Covington**, Mathilde Poyet, Jessica Crothers, Peter L. Moses, Andrew C. Tolonen, Hera Vlamakis, Eric J. Alm, Ramnik J. Xavier \\
+Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christian T. Covington, Mathilde Poyet, Jessica Crothers, Peter L. Moses, Andrew C. Tolonen, Hera Vlamakis, Eric J. Alm, Ramnik J. Xavier \\
 *Science* (2019) \\
 [[Paper](https://science.sciencemag.org/content/363/6423/181)]
 
