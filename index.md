@@ -19,7 +19,8 @@ I spent my first two years of college at the Eastman School of Music studying pe
 # Research
 - **Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy** \\
 Christian Covington, Xi He, James Honaker, Gautam Kamath \\
-(<a href="papers/CHHK21.pdf" target="blank_">Pre-print</a>).
+[[Pre-print](https://arxiv.org/abs/2110.14465)]
+<!-- (<a href="papers/CHHK21.pdf" target="blank_">Pre-print</a>). -->
 
 - **Patient experiences of integrated care in Medicare accountable care organizations and Medicare Advantage versus traditional fee-for-service** \\
 Molly Frean, Christian Covington, Maike Tietschert, Hassina Bahadurzada, Jodi So, Sara J Singer \\
