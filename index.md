@@ -43,17 +43,23 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christia
 [[Paper](https://science.sciencemag.org/content/363/6423/181)]
 
 ---
+# Presentations
+
+**Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy**
+- November 2021, [OpenDP](https://opendp.org) Research Meeting
+- October 2021, Penn State University Statistical Data Privacy Group Meeting
+- August 2021, Social Statistics Speed Session at the [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/index.cfm)
+- July 2021, Poster Session at ICML [Theory and Practice of Differential Privacy Workshop](https://tpdp.journalprivacyconfidentiality.org/2021/)
+
+<!-- - August 2021 - Presented "Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy" (joint work with Xi He, James Honaker, and Gautam Kamath) at Social Statistics Speed Session at the [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/index.cfm)
+- July 2021 - Presented "Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy" (joint work with Xi He, James Honaker, and Gautam Kamath) at Poster Session at ICML [Theory and Practice of Differential Privacy Workshop](https://tpdp.journalprivacyconfidentiality.org/2021/) -->
+
+--- 
 
 # Projects
 - Former developer for [OpenDP](https://projects.iq.harvard.edu/opendp) and [SmartNoise](https://github.com/opendifferentialprivacy/smartnoise-core)
 
 ---
-
-# Presentations
-- August 2021 - Presented "Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy" (joint work with Xi He, James Honaker, and Gautam Kamath) at Social Statistics Speed Session at the [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/index.cfm)
-- July 2021 - Presented "Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy" (joint work with Xi He, James Honaker, and Gautam Kamath) at Poster Session at ICML [Theory and Practice of Differential Privacy Workshop](https://tpdp.journalprivacyconfidentiality.org/2021/)
-
---- 
 
 # Information
 Email: christian.t.covington@gmail.com \\
