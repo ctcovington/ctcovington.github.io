@@ -45,7 +45,7 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christia
 ---
 # Presentations
 
-**Unbiased Statistical Estimation and Valid Confidence Sets Under Differential Privacy**
+**Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy**
 - November 2021, [OpenDP](https://opendp.org) Research Meeting
 - October 2021, Penn State University Statistical Data Privacy Group Meeting
 - August 2021, Social Statistics Speed Session at the [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/index.cfm)
