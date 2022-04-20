@@ -10,7 +10,7 @@ description:
 ---
 
 # About Me 
-I am a second-year student in the MMath Computer Science program at the University of Waterloo where I am advised by [Xi He](https://cs.uwaterloo.ca/~xihe/) and [Gautam Kamath](http://www.gautamkamath.com/). I'm interested primarily in valid inference in adaptive data analysis settings and methods for more robust empirical science, as well as statistical data privacy.
+I am currently a second-year student in the MMath Computer Science program at the University of Waterloo where I am advised by [Xi He](https://cs.uwaterloo.ca/~xihe/) and [Gautam Kamath](http://www.gautamkamath.com/). In Fall 2022, I will start a PhD in Biostatistics at Harvard University. I'm interested primarily in model uncertainty and methods for more robust empirical science.
 
 I spent my first two years of college at the Eastman School of Music studying percussion performance. I then transferred to Cornell University and graduated in 2016 with B.A. in Statistical Science. After graduating, I worked for a few years in various capacities doing computational research in social science, medicine, and biology before getting my introduction to data privacy as a research fellow with the [Harvard University Privacy Tools Project](https://privacytools.seas.harvard.edu/). 
 
@@ -58,6 +58,11 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christia
 
 # Projects
 - Former developer for [OpenDP](https://projects.iq.harvard.edu/opendp) and [SmartNoise](https://github.com/opendifferentialprivacy/smartnoise-core)
+
+---
+
+<!-- # Blog
+- [02/06/22: (Slightly) Toward a Principled Foundation for Multiverse Analysis](./blog/02_06_22_multiverse_analysis) -->
 
 ---
 
