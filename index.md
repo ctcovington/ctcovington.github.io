@@ -70,7 +70,8 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christia
 Email: christian.t.covington@gmail.com \\
 [GitHub](https://github.com/ctcovington) \\
 [Twitter](https://twitter.com/ctcovington) \\
-[Google Scholar](https://scholar.google.com/citations?user=dxtVsBAAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=dxtVsBAAAAAJ&hl=en) \\
+[Semantic Scholar](https://www.semanticscholar.org/author/1661151584)
 <!-- [CV]() -->
 
 <!-- [Github Pages](https://pages.github.com) provide a simple way to make a
