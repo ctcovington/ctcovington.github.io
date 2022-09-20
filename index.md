@@ -10,7 +10,7 @@ description:
 ---
 
 # About Me 
-I am an incoming PhD student in Biostatistics at Harvard University. I'm interested primarily in model uncertainty and methods for more robust empirical science.
+I am a first-year PhD student in Biostatistics at Harvard University. I'm interested primarily in model uncertainty and methods for more robust empirical science.
 
 I spent my first two years of college at the Eastman School of Music studying percussion performance. I then transferred to Cornell University and graduated in 2016 with B.A. in Statistical Science. After graduating, I worked for a few years in various capacities doing computational research in social science, medicine, and biology before getting my introduction to data privacy as a research fellow with the [Harvard University Privacy Tools Project](https://privacytools.seas.harvard.edu/). 
 From 2020-2022, I was a student in the MMath Computer Science program at the University of Waterloo where I was advised by [Xi He](https://cs.uwaterloo.ca/~xihe/) and [Gautam Kamath](http://www.gautamkamath.com/).
@@ -68,9 +68,8 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christia
 ---
 
 # Information
-Email: christian.t.covington@gmail.com \\
+Email: ccovington@g.harvard.edu \\
 [GitHub](https://github.com/ctcovington) \\
-[Twitter](https://twitter.com/ctcovington) \\
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=dxtVsBAAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F5eRs3wf0Xvi6e13Nz-xGd-4sjPF_eARqmRYrfL3fHgnsJY0c4FOJGCbook2trXkrWDcLnsi3nAKXMM1NoecBFHnmyIZi64YhuEChlIAogBGvwQ9cc) \\
 [Semantic Scholar](https://www.semanticscholar.org/author/1661151584)
 <!-- [CV]() -->
