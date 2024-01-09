@@ -23,18 +23,19 @@ From 2020-2022, I was a student in the MMath Computer Science program at the Uni
 # Research
 - **Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy** \\
 Christian Covington, Xi He, James Honaker, Gautam Kamath \\
-[[Pre-print](https://arxiv.org/abs/2110.14465)]
-<!-- (<a href="papers/CHHK21.pdf" target="blank_">Pre-print</a>). -->
+*Statistica Sinica: Special Issue on Data Privacy (TBA)* \\
+[[Article](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0276_na.pdf)]
+[[Supplement](https://www3.stat.sinica.edu.tw/preprint/supp/2022-0276_supp.pdf)]
 
 - **Patient experiences of integrated care in Medicare accountable care organizations and Medicare Advantage versus traditional fee-for-service** \\
 Molly Frean, Christian Covington, Maike Tietschert, Hassina Bahadurzada, Jodi So, Sara J Singer \\
 *Medical Care* (2021) \\
-[[Paper](https://pubmed.ncbi.nlm.nih.gov/33273291/)]
+[[Article](https://pubmed.ncbi.nlm.nih.gov/33273291/)]
 
 - **Differences in patient perceptions of integrated care among black, hispanic, and white Medicare beneficiaries** \\
 Emilia J Ling, Molly Frean, Jody So, Maike Tietschert, Nancy Song, Christian Covington, Hassina Bahadurazada, Sonia Khurana, Luis Garcia, Sara J Singer \\
 *Health Services Research* (2021) \\
-[[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13637)]
+[[Article](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13637)]
 
 - **Variation in Patients’ Perceptions of Integrated Care Among Medicare Beneficiaries By Level of Need** \\
 Nancy Song, Molly Frean, Christian Covington, Maike Tietschert, Emilia Ling, Hassina Bahadurzada, Michaela Kerrissey, Mark Friedberg, Sara J Singer \\
@@ -44,7 +45,7 @@ Nancy Song, Molly Frean, Christian Covington, Maike Tietschert, Emilia Ling, Has
 - **Invertible Promoters Mediate Bacterial Phase Variation, Antibiotic Resistance, and Host Adaptation in the Gut** \\
 Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christian T. Covington, Mathilde Poyet, Jessica Crothers, Peter L. Moses, Andrew C. Tolonen, Hera Vlamakis, Eric J. Alm, Ramnik J. Xavier \\
 *Science* (2019) \\
-[[Paper](https://science.sciencemag.org/content/363/6423/181)]
+[[Article](https://science.sciencemag.org/content/363/6423/181)]
 
 ---
 # Presentations
