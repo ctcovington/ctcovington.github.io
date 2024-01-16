@@ -1,3 +1,10 @@
 _site
 Gemfile.lock
 .DS_Store
+.vscode
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz

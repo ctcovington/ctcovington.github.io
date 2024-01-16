@@ -1,0 +1,152 @@
+\documentclass[margin,line]{res}
+\usepackage[colorlinks=true]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=cyan,
+    filecolor=magenta,
+    urlcolor=blue,
+}
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=0pt}
+
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.0in
+\itemsep=0in
+\parsep=0in
+% if using pdflatex:
+%\setlength{\pdfpagewidth}{\paperwidth}
+%\setlength{\pdfpageheight}{\paperheight} 
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+
+
+\begin{document}
+
+\name{Christian T. Covington \vspace*{.1in}}
+
+\begin{resume}
+\section{\sc Contact Information}
+\vspace{.05in}
+\begin{tabular}{@{}p{2in}p{4in}}
+%Baker Hall 232             & {\it Voice:}  (412) 268-6276 \\            
+Department of Biostatistics  &  Email: ccovington@g.harvard.edu \\ % {\it Fax:}    (412) 268-7828 \\         
+Harvard University & Website: \href{https://ctcovington.github.io}{https://ctcovington.github.io} \\            
+\end{tabular}
+
+
+\section{\sc Research Interests}
+Model misspecification and uncertainty, valid statistical inference in adaptive settings, 
+formal data privacy, scientific reform 
+
+\section{\sc Education}
+
+{\bf Harvard University}, Cambridge, MA\\
+%{\em Department of Mathematics and Statistics} 
+\vspace*{-.1in}
+\begin{list1}
+\item[] PhD, Biostatistics,  September 2022 - 
+\end{list1}
+
+{\bf University of Waterloo}, Waterloo, ON, Canada\\
+%{\em Department of Mathematics and Statistics} 
+\vspace*{-.1in}
+\begin{list1}
+\item[] MMath, Computer Science,  September 2020 - June 2022
+\item[] Advised by Xi He and Gautam Kamath 
+\end{list1}
+
+{\bf Cornell University}, Ithaca, NY, USA\\
+%{\em Department of Mathematics and Statistics} 
+\vspace*{-.1in}
+\begin{list1}
+\item[] BA, Statistical Science, January 2014 - May 2016 
+\end{list1}
+
+\section{\sc Honors and Awards} 
+Graduate Excellence Award, 2020 - 2022 \\
+David R. Cheriton Graduate Scholarship, 2020 - 2022 \\
+Dr. Derick Wood Graduate Scholarship, 2020 - 2021 \\
+Cornell University Magna Cum Laude and Distinction in Statistical Science, 2016 \\
+Hunter R. Rawlings III Cornell Presidential Research Scholar, 2014 - 2016
+
+\section{\sc Papers in preparation}
+
+\textbf{Bayesian Model Criticism using Uniform Parameterization Checks} \\
+Christian Covington, Jeff Miller \\
+ISBA World Meeting 2024 (Forthcoming)
+
+\section{\sc Publications}
+\textbf{Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy} \\
+Christian Covington, Xi He, James Honaker, Gautam Kamath \\
+Statistica Sinica: Special Issue on Data Privacy (TBA)
+
+\textbf{Differences in patient perceptions of integrated care among black, hispanic, and white Medicare beneficiaries} \\
+Emilia J Ling, Molly Frean, Jody So, Maike Tietschert, Nancy Song, Christian Covington, Hassina Bahadurazada, Sonia Khurana, Luis Garcia, Sara J Singer \\ 
+Health Services Research (2021) \\
+
+\textbf{Patient experiences of integrated care in Medicare accountable care organizations and Medicare Advantage versus traditional fee-for-service} \\
+Molly Frean, Christian Covington, Maike Tietschert, Hassina Bahadurzada, Jodi So, Sara J Singer \\
+Medical Care (2021) \\
+
+\textbf{Invertible promoters mediate bacterial phase variation, antibiotic resistance, and host adaptation in the gut} \\
+Xiaofang Jiang, A Brantley Hall, Timothy D Arthur, Damian R Plichta, Christian T Covington, Mathilde Poyet, Jessica Crothers, Peter L Moses, Andrew C Tolonen, Hera Vlamakis, Eric J Alm, Ramnik J Xavier \\
+Science (2019)
+
+\textbf{Variation in Patients’ Perceptions of Integrated Care Among Medicare Beneficiaries By Level of Need} \\ 
+Nancy Song, Molly Frean, Christian Covington, Maike Tietschert, Emilia Ling, Hassina Bahadurzada, Michaela Kerrissey, Mark Friedberg, Sara Singer \\
+AcademyHealth Annual Research Meeting (2019)
+
+\section{\sc Professional Experience}
+\textbf{Apple, Cupertino, CA} \hfill \textbf{May 2021 - August 2021} \\
+Summer Intern \\ 
+\begin{itemize} 
+    \item Developed differentially private algorithms for product teams.
+\end{itemize}
+
+\textbf{Harvard University, Cambridge, MA} \hfill \textbf{July 2019 - August 2020} \\ 
+Research Fellow: Privacy Tools Project \\
+\begin{itemize}
+  \item Part of core development team for the \href{https://github.com/opendifferentialprivacy/smartnoise-core}{SmartNoise} Rust library.
+  \item Created \href{https://github.com/ctcovington/floating_point}{software implementation} of and extended theoretical results for differentially private Snapping Mechanism. 
+\end{itemize}
+
+\textbf{Broad Institute, Cambridge, MA} \hfill \textbf{August 2018 - June 2019} \\
+Associate Computational Biologist \\
+\begin{itemize}
+    \item Wrote computational pipelines for preparation and analysis of biological data, including RNA-Sequencing and CRISPR screens.
+    \item Created centralized storage and \href{https://xavier-lab.readthedocs.io/en/master/?}{documentation} of lab's computational resources.
+    \item Contributed to automated system for CRISPR repair template design. 
+\end{itemize}
+
+\textbf{Harvard Laboratory for Systems Medicine, Cambridge, MA} \hfill \textbf{July 2017 - August 2018} \\
+Data Scientist \\
+\begin{itemize} 
+    \item Contributed to R package \href{https://github.com/sysmedlab/ehR}{ehR} to assist in analyzing electronic medical record data.
+    \item Built machine learning models for \href{https://eml.berkeley.edu/~webfac/auerbach/w26168.pdf}{research} on physician testing decisions.
+\end{itemize}
+
+\textbf{Harvard Business School, Boston, MA} \hfill \textbf{July 2016 - June 2017} \\
+Research Associate \\ 
+\begin{itemize}
+    \item Helped develop simulation for \href{https://www.hbs.edu/faculty/Publication%20Files/17-095_9c642396-3599-4250-a7a6-c25eec842a56.pdf}{research}
+    into dynamic strategic interactions. 
+\end{itemize}
+
+\end{resume}
+\end{document}
+
+
+
+
