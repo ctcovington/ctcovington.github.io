@@ -68,4 +68,4 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christia
 Email: ccovington@g.harvard.edu \\
 [GitHub](https://github.com/ctcovington) \\
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=dxtVsBAAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F5eRs3wf0Xvi6e13Nz-xGd-4sjPF_eARqmRYrfL3fHgnsJY0c4FOJGCbook2trXkrWDcLnsi3nAKXMM1NoecBFHnmyIZi64YhuEChlIAogBGvwQ9cc) \\
-[Semantic Scholar](https://www.semanticscholar.org/author/1661151584) \\
+[Semantic Scholar](https://www.semanticscholar.org/author/1661151584)
