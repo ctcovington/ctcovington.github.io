@@ -10,9 +10,9 @@ description:
 ---
 
 ### About Me 
-I am a second-year PhD student in Biostatistics at Harvard University.
+I am a third-year PhD student in Biostatistics at Harvard University.
 I am interested primarily in issues related to model misspecification and
-data preprocessing.
+representing uncertainty due to model selection/specification.
 
 
 I spent my first two years of college at the Eastman School of Music studying percussion performance. I then transferred to Cornell University and graduated in 2016 with B.A. in Statistical Science. After graduating, I worked for a few years in various capacities doing computational research in social science, medicine, and biology before getting my introduction to data privacy as a research fellow with the [Harvard University Privacy Tools Project](https://privacytools.seas.harvard.edu/). 
@@ -55,6 +55,7 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christia
 
 ### Teaching
 **Teaching Assistant** \\
+    - BST 240 Probability II: Fall 2024
     - BST 210 Applied Regression Analysis: Fall 2023
 
 ---
