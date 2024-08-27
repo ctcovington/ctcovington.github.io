@@ -55,7 +55,7 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christia
 
 ### Teaching
 **Teaching Assistant** \\
-    - BST 240 Probability II: Fall 2024
+    - BST 240 Probability II: Fall 2024 \\
     - BST 210 Applied Regression Analysis: Fall 2023
 
 ---
