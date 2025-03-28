@@ -29,7 +29,7 @@ Christian Covington, Jeff Miller \\
 
 - **Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy** \\
 Christian Covington, Xi He, James Honaker, Gautam Kamath \\
-*Statistica Sinica: Special Issue on Data Privacy (TBA)* \\
+*Statistica Sinica: Special Issue on Data Privacy (2025)* \\
     - Presented at Social Statistics Speed Session at the [Joint Statistical Meetings (2021)](https://ww2.amstat.org/meetings/jsm/2021/index.cfm)
     - Presented poster at [ICML Theory and Practice of Differential Privacy Workshop (2021)](https://tpdp.journalprivacyconfidentiality.org/2021/) \\
 [[Article](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0276_na.pdf)]
