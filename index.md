@@ -25,8 +25,7 @@ From 2020-2022, I was a student in the MMath Computer Science program at the Uni
 - **Bayesian model criticism using uniform parametrization checks** \\
 Christian Covington, Jeff Miller \\
     - Presented poster at [Columbia University Optimization and Statistical Learning Workshop (2025)](https://stat.columbia.edu/optimization-and-statistical-learning-workshop/) \\
-[[Article](https://arxiv.org/abs/2503.18261)] \\
-**NOTE:** I am working on an updated version of this paper but, for anyone who is looking at version 1, the Cauchy combination equation on the middle of pg 7 should be <img src="upc_correction.png" alt="correction" width="300"/> 
+[[Article](https://arxiv.org/abs/2503.18261)]
 
 - **Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy** \\
 Christian Covington, Xi He, James Honaker, Gautam Kamath \\
