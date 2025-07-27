@@ -10,7 +10,7 @@ description:
 ---
 
 ### About Me 
-I am a third-year PhD student in Biostatistics at Harvard University advised by [Jeff Miller](https://jwmi.github.io).
+I am a fourth-year PhD student in Biostatistics at Harvard University advised by [Jeff Miller](https://jwmi.github.io).
 I am interested primarily in issues related to model misspecification and
 representing uncertainty due to model selection/specification.
 
