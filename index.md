@@ -22,6 +22,12 @@ From 2020-2022, I was a student in the MMath Computer Science program at the Uni
 ---
 
 ### Research
+
+- **A powerful goodness-of-fit test using the probability integral transform of order statistics** \\
+Christian Covington, Jeff Miller \\
+[[Article](https://arxiv.org/abs/2510.22854)]
+[[Code](https://github.com/ctcovington/PITOS)]
+
 - **Bayesian model criticism using uniform parametrization checks** \\
 Christian Covington, Jeff Miller \\
     - Presented poster at [Columbia University Optimization and Statistical Learning Workshop (2025)](https://stat.columbia.edu/optimization-and-statistical-learning-workshop/) \\
@@ -59,7 +65,7 @@ Xiaofang Jiang, A. Brantley Hall, Timothy D. Arthur, Damian R. Plichta, Christia
 
 ### Teaching
 **Teaching Assistant** \\
-    - BST 240 Probability II: Fall 2024 \\
+    - BST 240 Probability II: Fall 2024, Fall 2025 \\
     - BST 210 Applied Regression Analysis: Fall 2023
 
 ---
