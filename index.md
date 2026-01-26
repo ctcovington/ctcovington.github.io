@@ -17,7 +17,7 @@ representing uncertainty due to model selection/specification.
 I spent my first two years of college at the Eastman School of Music studying percussion performance. I then transferred to Cornell University and graduated in 2016 with B.A. in Statistical Science. After graduating, I worked for a few years in various capacities doing computational research in social science, medicine, and biology before getting my introduction to data privacy as a research fellow with the [Harvard University Privacy Tools Project](https://privacytools.seas.harvard.edu/). 
 From 2020-2022, I was a student in the MMath Computer Science program at the University of Waterloo where I was advised by [Xi He](https://cs.uwaterloo.ca/~xihe/) and [Gautam Kamath](http://www.gautamkamath.com/).
 
-<a href="cv/covington_cv.pdf" target="blank_">Curriculum Vitae</a>
+<a href="cv/cv.pdf" target="blank_">Curriculum Vitae</a>
 
 ---
 
