@@ -1,0 +1,580 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global/global}
+    \entry{chattopadhyay2026upc_bnp}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=74d5011832545b6e68658ea041d100d2}{%
+           family={Chattopadhyay},
+           familyi={C\bibinitperiod},
+           given={Shounak},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={Christian\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=0a7bd8de0db2f40502638d5b30fc3339}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Jeffrey\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e2f9889f05df4e6e462335278ade826d}
+      \strng{fullhash}{e2f9889f05df4e6e462335278ade826d}
+      \strng{fullhashraw}{e2f9889f05df4e6e462335278ade826d}
+      \strng{bibnamehash}{e2f9889f05df4e6e462335278ade826d}
+      \strng{authorbibnamehash}{e2f9889f05df4e6e462335278ade826d}
+      \strng{authornamehash}{e2f9889f05df4e6e462335278ade826d}
+      \strng{authorfullhash}{e2f9889f05df4e6e462335278ade826d}
+      \strng{authorfullhashraw}{e2f9889f05df4e6e462335278ade826d}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{stat.ME}
+      \field{title}{Uniform parametrization checks for Bayesian nonparametric models}
+      \true{nocite}
+      \keyw{wip}
+    \endentry
+    \entry{covington2026multiverse}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={Christian\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=163089f3855ca4c13d13ef2e6d5a50ab}{%
+           family={Mathur},
+           familyi={M\bibinitperiod},
+           given={Maya\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba96229639c6eae3740881fb282dd436}{%
+           family={VanderWeele},
+           familyi={V\bibinitperiod},
+           given={Tyler\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8456bf13df9804f72e69310ee67f004e}
+      \strng{fullhash}{8456bf13df9804f72e69310ee67f004e}
+      \strng{fullhashraw}{8456bf13df9804f72e69310ee67f004e}
+      \strng{bibnamehash}{8456bf13df9804f72e69310ee67f004e}
+      \strng{authorbibnamehash}{8456bf13df9804f72e69310ee67f004e}
+      \strng{authornamehash}{8456bf13df9804f72e69310ee67f004e}
+      \strng{authorfullhash}{8456bf13df9804f72e69310ee67f004e}
+      \strng{authorfullhashraw}{8456bf13df9804f72e69310ee67f004e}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{stat.ME}
+      \field{title}{Multiverse analysis for causal inference (and vice-versa)}
+      \true{nocite}
+      \keyw{wip}
+    \endentry
+    \entry{covington2026grt}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={Christian\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=0a7bd8de0db2f40502638d5b30fc3339}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Jeffrey\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{fullhash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{fullhashraw}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{bibnamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorbibnamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authornamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorfullhash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorfullhashraw}{dbb57a0517b8764e7718838f66bcb965}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{stat.ME}
+      \field{title}{Canonical representations of u-values for Bayesian model criticism via the generalized Rosenblatt transform}
+      \true{nocite}
+      \keyw{wip}
+    \endentry
+    \entry{covington2025powerful}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={Christian\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=0a7bd8de0db2f40502638d5b30fc3339}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Jeffrey\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{fullhash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{fullhashraw}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{bibnamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorbibnamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authornamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorfullhash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorfullhashraw}{dbb57a0517b8764e7718838f66bcb965}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Under review}
+      \field{eprintclass}{stat.ME}
+      \field{eprinttype}{arXiv}
+      \field{title}{A powerful goodness-of-fit test using the probability integral transform of order statistics}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2510.22854
+      \endverb
+      \keyw{theory}
+    \endentry
+    \entry{covington2025bayesian}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={Christian\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=0a7bd8de0db2f40502638d5b30fc3339}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Jeffrey\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{fullhash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{fullhashraw}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{bibnamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorbibnamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authornamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorfullhash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorfullhashraw}{dbb57a0517b8764e7718838f66bcb965}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Under review}
+      \field{eprintclass}{stat.ME}
+      \field{eprinttype}{arXiv}
+      \field{title}{Bayesian model criticism using uniform parametrization checks}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2503.18261
+      \endverb
+      \keyw{theory}
+    \endentry
+    \entry{mathur2023variation}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=163089f3855ca4c13d13ef2e6d5a50ab}{%
+           family={Mathur},
+           familyi={M\bibinitperiod},
+           given={Maya\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={Christian\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=ba96229639c6eae3740881fb282dd436}{%
+           family={VanderWeele},
+           familyi={V\bibinitperiod},
+           given={Tyler\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Academy of Sciences}%
+      }
+      \strng{namehash}{af92db1157f78492f930b116d45ecec6}
+      \strng{fullhash}{af92db1157f78492f930b116d45ecec6}
+      \strng{fullhashraw}{af92db1157f78492f930b116d45ecec6}
+      \strng{bibnamehash}{af92db1157f78492f930b116d45ecec6}
+      \strng{authorbibnamehash}{af92db1157f78492f930b116d45ecec6}
+      \strng{authornamehash}{af92db1157f78492f930b116d45ecec6}
+      \strng{authorfullhash}{af92db1157f78492f930b116d45ecec6}
+      \strng{authorfullhashraw}{af92db1157f78492f930b116d45ecec6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{3}
+      \field{title}{Variation across analysts in statistical significance, yet consistently small effect sizes}
+      \field{volume}{120}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{e2218957120}
+      \range{pages}{-1}
+      \keyw{theory}
+    \endentry
+    \entry{song2022patients}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=450db8be881355cf51aaa5843e8625f8}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0892e5841ebd4293e51231d48a482f7}{%
+           family={Frean},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2322bccea298535710663e0ebb44530}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=864dc504d8dc32a14a1050d3b0741e07}{%
+           family={Tietschert},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2186cf6d9f849cf58236ab484e1e1a01}{%
+           family={Ling},
+           familyi={L\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79edf9801ff12f26b524add73d65bf47}{%
+           family={Bahadurzada},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{233c17009795c5b4eb623749a73895ae}
+      \strng{fullhash}{47f9020f19209ef3122da436fc8f5936}
+      \strng{fullhashraw}{47f9020f19209ef3122da436fc8f5936}
+      \strng{bibnamehash}{47f9020f19209ef3122da436fc8f5936}
+      \strng{authorbibnamehash}{47f9020f19209ef3122da436fc8f5936}
+      \strng{authornamehash}{233c17009795c5b4eb623749a73895ae}
+      \strng{authorfullhash}{47f9020f19209ef3122da436fc8f5936}
+      \strng{authorfullhashraw}{47f9020f19209ef3122da436fc8f5936}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Care Research and Review}
+      \field{number}{5}
+      \field{title}{Patients' perceptions of integrated care among Medicare beneficiaries by level of need for health services}
+      \field{volume}{79}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{640\bibrangedash 649}
+      \range{pages}{10}
+      \keyw{applied}
+    \endentry
+    \entry{covington2021unbiased}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=58e127ad75f510c0ff80109a9a76e7d7}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=5ca5eefe97141a92dff9eb1a1b3e0d49}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e6359aa28a5824d2906cf742638c281}{%
+           family={Honaker},
+           familyi={H\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22c418e94fb709c6c24a37b510b3c539}{%
+           family={Kamath},
+           familyi={K\bibinitperiod},
+           given={Gautam},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05a8f919225a573c8e9ee3f129ace40b}
+      \strng{fullhash}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{fullhashraw}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{bibnamehash}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{authorbibnamehash}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{authornamehash}{05a8f919225a573c8e9ee3f129ace40b}
+      \strng{authorfullhash}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{authorfullhashraw}{df42feab0819f44eb7dc9460327a5c1e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistica Sinica}
+      \field{title}{Unbiased statistical estimation and valid confidence intervals under differential privacy}
+      \field{year}{2021}
+      \true{nocite}
+      \keyw{theory}
+    \endentry
+    \entry{frean2021patient}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=e0892e5841ebd4293e51231d48a482f7}{%
+           family={Frean},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9cf2283b727114ab261a6517f9c6243}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=864dc504d8dc32a14a1050d3b0741e07}{%
+           family={Tietschert},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79edf9801ff12f26b524add73d65bf47}{%
+           family={Bahadurzada},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8789dc057b70997d850bb18599bd142e}{%
+           family={So},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9c131ba8926d217434b9b8602990bd6}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wolters Kluwer}%
+      }
+      \strng{namehash}{c2c07851d0ce19e5f10251f58e47e04d}
+      \strng{fullhash}{19c99a103ee239b1cff901944bfe4c31}
+      \strng{fullhashraw}{19c99a103ee239b1cff901944bfe4c31}
+      \strng{bibnamehash}{19c99a103ee239b1cff901944bfe4c31}
+      \strng{authorbibnamehash}{19c99a103ee239b1cff901944bfe4c31}
+      \strng{authornamehash}{c2c07851d0ce19e5f10251f58e47e04d}
+      \strng{authorfullhash}{19c99a103ee239b1cff901944bfe4c31}
+      \strng{authorfullhashraw}{19c99a103ee239b1cff901944bfe4c31}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Care}
+      \field{number}{3}
+      \field{title}{Patient experiences of integrated care in Medicare Accountable Care Organizations and Medicare Advantage versus traditional Fee-for-Service}
+      \field{volume}{59}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{195\bibrangedash 201}
+      \range{pages}{7}
+      \keyw{applied}
+    \endentry
+    \entry{ling2021differences}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=a73b6a713970df48110d9968edf1f316}{%
+           family={Ling},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0892e5841ebd4293e51231d48a482f7}{%
+           family={Frean},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8789dc057b70997d850bb18599bd142e}{%
+           family={So},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=864dc504d8dc32a14a1050d3b0741e07}{%
+           family={Tietschert},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=450db8be881355cf51aaa5843e8625f8}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9cf2283b727114ab261a6517f9c6243}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{b47b56a9ef5ade95abde28e00df44c34}
+      \strng{fullhash}{f14aa4697476ba1988db358a514447c0}
+      \strng{fullhashraw}{f14aa4697476ba1988db358a514447c0}
+      \strng{bibnamehash}{f14aa4697476ba1988db358a514447c0}
+      \strng{authorbibnamehash}{f14aa4697476ba1988db358a514447c0}
+      \strng{authornamehash}{b47b56a9ef5ade95abde28e00df44c34}
+      \strng{authorfullhash}{f14aa4697476ba1988db358a514447c0}
+      \strng{authorfullhashraw}{f14aa4697476ba1988db358a514447c0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Services Research}
+      \field{number}{3}
+      \field{title}{Differences in patient perceptions of integrated care among Black, Hispanic, and White Medicare beneficiaries}
+      \field{volume}{56}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{507\bibrangedash 516}
+      \range{pages}{10}
+      \keyw{applied}
+    \endentry
+    \entry{jiang2019invertible}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=908934508904d19aa8b4feb3bcd6e64a}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5227a66db4af80547f0062542e5be201}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=315995e839241bd586471a3d0ca8a5e3}{%
+           family={Arthur},
+           familyi={A\bibinitperiod},
+           given={T.\bibnamedelimi D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48c5ba596dc488a592e465d5d88ed2f9}{%
+           family={Plichta},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2322bccea298535710663e0ebb44530}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0280156f60ed473bad06a23968987f04}{%
+           family={Poyet},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{d59ef2fbc20eaaf6d0b274b8c639c351}
+      \strng{fullhash}{3ac03e90c31393f9125c4a6e5c80b9fd}
+      \strng{fullhashraw}{3ac03e90c31393f9125c4a6e5c80b9fd}
+      \strng{bibnamehash}{3ac03e90c31393f9125c4a6e5c80b9fd}
+      \strng{authorbibnamehash}{3ac03e90c31393f9125c4a6e5c80b9fd}
+      \strng{authornamehash}{d59ef2fbc20eaaf6d0b274b8c639c351}
+      \strng{authorfullhash}{3ac03e90c31393f9125c4a6e5c80b9fd}
+      \strng{authorfullhashraw}{3ac03e90c31393f9125c4a6e5c80b9fd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{6423}
+      \field{title}{Invertible promoters mediate bacterial phase variation, antibiotic resistance, and host adaptation in the gut}
+      \field{volume}{363}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{181\bibrangedash 187}
+      \range{pages}{7}
+      \keyw{applied}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
