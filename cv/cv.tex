@@ -36,10 +36,10 @@
 
 % Subsection Formatting
 \titleformat{\subsection}
-  {\large\bfseries}
-  {}
-  {0em}
-  {}
+  {\large\bfseries} % Format
+  {}                % Label
+  {0em}             % Sep
+  {\underline}
 
 \titlespacing{\subsection}{0pt}{1em}{0.5em}
 
@@ -52,6 +52,14 @@
   \textit{#3}%                        % Italic Institution
   \ifstrempty{#4}{}{ \\ #4 }%         % Only add newline if Description exists
   \par\vspace{0.5em}                  % Consistent spacing after every entry
+}
+
+% Usage: \cventryone{Date}{Title}{Institution}{Description}
+% Places Title and Institution on the same line.
+\newcommand{\cventryone}[4]{
+  \noindent\textbf{#2}, \textit{#3} \hfill #1 % Title, Inst ... Date
+  \ifstrempty{#4}{}{ \\ #4 }%  Adds description on next line ONLY if it exists
+  \par\vspace{2pt} % Tight spacing
 }
 
 % --- BEGIN DOCUMENT ---
@@ -119,29 +127,29 @@ Foundations of statistical inference
 \section{Teaching/Mentoring Experience}
 
 \subsection{Teaching Assistant}
-\cventry{2024, 2025}
+\cventryone{2024, 2025}
     {BST 240: Probability II}
     {Harvard T.H. Chan School of Public Health}
     {}
 
-\cventry{2023}
+\cventryone{2023}
     {BST 210: Applied Regression Analysis}
     {Harvard T.H. Chan School of Public Health}
     {}
 
-\cventry{2016}
+\cventryone{2016}
     {SOC 2580: Six Pretty Good Books}
     {Cornell University}
     {}
 
 \subsection{Mentor}
-\cventry{2024}
-    {Betania Adane (High School Student)}
-    {Harvard Undergraduate OpenBio Laboratory Summer Research Institute}
-    {Next position: Undergraduate at Stanford University}
+\cventryone{2024}
+    {Betania Adane}
+    {Harvard Undergraduate OpenBio Lab SRI}
+    {}
 
 \subsection{Tutor}
-\cventry{2015 -- 2016}
+\cventryone{2015 -- 2016}
     {Statistics Tutor}
     {Cornell University}
     {}
@@ -154,60 +162,60 @@ Foundations of statistical inference
 % --- PROFESSIONAL EXPERIENCE ---
 \section{Professional Experience}
 
-\cventry{2025 -- 2026}
+\cventryone{2025 -- 2026}
     {BridgeBio}
     {Research Extern}
-    {Palo Alto, CA}
+    {}
 
-\cventry{2021}
+\cventryone{2021}
     {Apple}
     {Summer Intern}
-    {Cupertino, CA}
+    {}
 
-\cventry{2019 -- 2020}
+\cventryone{2019 -- 2020}
     {Harvard University Privacy Tools Project}
     {Research Fellow}
-    {Cambridge, MA}
+    {}
 
-\cventry{2018 -- 2019}
+\cventryone{2018 -- 2019}
     {Broad Institute}
     {Associate Computational Biologist}
-    {Cambridge, MA}
+    {}
 
-\cventry{2017 -- 2018}
+\cventryone{2017 -- 2018}
     {Harvard Laboratory for Systems Medicine}
     {Data Scientist}
-    {Cambridge, MA}
+    {}
 
-\cventry{2016 -- 2017}
+\cventryone{2016 -- 2017}
     {Harvard Business School}
     {Research Associate}
-    {Boston, MA}
+    {}
 
 % --- AWARDS ---
 \section{Awards}
 
-\cventry{2023, 2024}
+\cventryone{2023, 2024}
     {Distinction in Teaching}
     {Harvard University}
     {}
 
-\cventry{2020 -- 2022}
+\cventryone{2020 -- 2022}
     {Graduate Excellence Award}
     {University of Waterloo}
     {}
 
-\cventry{2020 -- 2022}
+\cventryone{2020 -- 2022}
     {David R. Cheriton Graduate Scholarship}
     {University of Waterloo}
     {}
 
-\cventry{2020 -- 2021}
+\cventryone{2020 -- 2021}
     {Dr. Derick Wood Graduate Scholarship}
     {University of Waterloo}
     {}
 
-\cventry{2014 -- 2016}
+\cventryone{2014 -- 2016}
     {Hunter R. Rawlings III Presidential Research Scholar}
     {Cornell University}
     {}
