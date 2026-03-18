@@ -127,7 +127,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{stat.ME}
-      \field{title}{Canonical representations of u-values for Bayesian model criticism via the generalized Rosenblatt transform}
+      \field{title}{Canonical representations of u-values for Bayesian model criticism}
       \true{nocite}
       \keyw{wip}
     \endentry
@@ -162,7 +162,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Under review}
+      \field{addendum}{Under review at \emph{Journal of Computational and Graphical Statistics}}
       \field{eprintclass}{stat.ME}
       \field{eprinttype}{arXiv}
       \field{title}{A powerful goodness-of-fit test using the probability integral transform of order statistics}
@@ -204,7 +204,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Under review}
+      \field{addendum}{Under review at \emph{Bayesian Analysis}}
       \field{eprintclass}{stat.ME}
       \field{eprinttype}{arXiv}
       \field{title}{Bayesian model criticism using uniform parametrization checks}
