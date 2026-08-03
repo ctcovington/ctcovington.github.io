@@ -131,6 +131,60 @@
       \true{nocite}
       \keyw{wip}
     \endentry
+    \entry{covington2025unbiased}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=58e127ad75f510c0ff80109a9a76e7d7}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=5ca5eefe97141a92dff9eb1a1b3e0d49}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e6359aa28a5824d2906cf742638c281}{%
+           family={Honaker},
+           familyi={H\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22c418e94fb709c6c24a37b510b3c539}{%
+           family={Kamath},
+           familyi={K\bibinitperiod},
+           given={Gautam},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05a8f919225a573c8e9ee3f129ace40b}
+      \strng{fullhash}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{fullhashraw}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{bibnamehash}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{authorbibnamehash}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{authornamehash}{05a8f919225a573c8e9ee3f129ace40b}
+      \strng{authorfullhash}{df42feab0819f44eb7dc9460327a5c1e}
+      \strng{authorfullhashraw}{df42feab0819f44eb7dc9460327a5c1e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1017-0405}
+      \field{journaltitle}{Statistica Sinica}
+      \field{title}{Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy}
+      \field{volume}{35}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{651}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.5705/ss.202022.0276
+      \endverb
+      \keyw{theory}
+    \endentry
     \entry{covington2025powerful}{misc}{}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
@@ -327,53 +381,6 @@
       \field{pages}{640\bibrangedash 649}
       \range{pages}{10}
       \keyw{applied}
-    \endentry
-    \entry{covington2021unbiased}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=58e127ad75f510c0ff80109a9a76e7d7}{%
-           family={Covington},
-           familyi={C\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=5ca5eefe97141a92dff9eb1a1b3e0d49}{%
-           family={He},
-           familyi={H\bibinitperiod},
-           given={Xi},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0e6359aa28a5824d2906cf742638c281}{%
-           family={Honaker},
-           familyi={H\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=22c418e94fb709c6c24a37b510b3c539}{%
-           family={Kamath},
-           familyi={K\bibinitperiod},
-           given={Gautam},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{05a8f919225a573c8e9ee3f129ace40b}
-      \strng{fullhash}{df42feab0819f44eb7dc9460327a5c1e}
-      \strng{fullhashraw}{df42feab0819f44eb7dc9460327a5c1e}
-      \strng{bibnamehash}{df42feab0819f44eb7dc9460327a5c1e}
-      \strng{authorbibnamehash}{df42feab0819f44eb7dc9460327a5c1e}
-      \strng{authornamehash}{05a8f919225a573c8e9ee3f129ace40b}
-      \strng{authorfullhash}{df42feab0819f44eb7dc9460327a5c1e}
-      \strng{authorfullhashraw}{df42feab0819f44eb7dc9460327a5c1e}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Statistica Sinica}
-      \field{title}{Unbiased statistical estimation and valid confidence intervals under differential privacy}
-      \field{year}{2021}
-      \true{nocite}
-      \keyw{theory}
     \endentry
     \entry{frean2021patient}{article}{}{}
       \name{author}{6}{}{%
