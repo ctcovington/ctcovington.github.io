@@ -127,7 +127,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{stat.ME}
-      \field{title}{Canonical representations of u-values for Bayesian model criticism}
+      \field{title}{The generalized Rosenblatt transform on countable products of standard Borel spaces}
       \true{nocite}
       \keyw{wip}
     \endentry
@@ -162,7 +162,6 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Under review at \emph{Journal of Computational and Graphical Statistics}}
       \field{eprintclass}{stat.ME}
       \field{eprinttype}{arXiv}
       \field{title}{A powerful goodness-of-fit test using the probability integral transform of order statistics}

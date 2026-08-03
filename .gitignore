@@ -2,9 +2,15 @@ _site
 Gemfile.lock
 .DS_Store
 .vscode
+.bundle
+
+vendor
 
 *.aux
 *.fdb_latexmk
 *.fls
 *.log
 *.synctex.gz
+
+# private CV build (see cv/cv-private.tex)
+cv/cv-private.*
