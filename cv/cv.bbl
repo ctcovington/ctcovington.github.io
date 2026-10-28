@@ -19,45 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global/global}
-    \entry{chattopadhyay2026upc_bnp}{misc}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=74d5011832545b6e68658ea041d100d2}{%
-           family={Chattopadhyay},
-           familyi={C\bibinitperiod},
-           given={Shounak},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
-           family={Covington},
-           familyi={C\bibinitperiod},
-           given={Christian\bibnamedelima T.},
-           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=0a7bd8de0db2f40502638d5b30fc3339}{%
-           family={Miller},
-           familyi={M\bibinitperiod},
-           given={Jeffrey\bibnamedelima W.},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{e2f9889f05df4e6e462335278ade826d}
-      \strng{fullhash}{e2f9889f05df4e6e462335278ade826d}
-      \strng{fullhashraw}{e2f9889f05df4e6e462335278ade826d}
-      \strng{bibnamehash}{e2f9889f05df4e6e462335278ade826d}
-      \strng{authorbibnamehash}{e2f9889f05df4e6e462335278ade826d}
-      \strng{authornamehash}{e2f9889f05df4e6e462335278ade826d}
-      \strng{authorfullhash}{e2f9889f05df4e6e462335278ade826d}
-      \strng{authorfullhashraw}{e2f9889f05df4e6e462335278ade826d}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labeldatesource}{nodate}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eprintclass}{stat.ME}
-      \field{title}{Uniform parametrization checks for Bayesian nonparametric models}
-      \true{nocite}
-      \keyw{wip}
-    \endentry
     \entry{covington2026multiverse}{misc}{}{}
       \name{author}{3}{}{%
         {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
@@ -97,7 +58,7 @@
       \true{nocite}
       \keyw{wip}
     \endentry
-    \entry{covington2026grt}{misc}{}{}
+    \entry{covington2026grt_power}{misc}{}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
            family={Covington},
@@ -127,9 +88,51 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{stat.ME}
-      \field{title}{The generalized Rosenblatt transform on countable products of standard Borel spaces}
+      \field{title}{Order selection for the generalized {Rosenblatt} transform on standard {Borel} spaces}
       \true{nocite}
       \keyw{wip}
+    \endentry
+    \entry{covington2026grt}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=3ea40d6de00d981b943337e8d9017c4b}{%
+           family={Covington},
+           familyi={C\bibinitperiod},
+           given={Christian\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=0a7bd8de0db2f40502638d5b30fc3339}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Jeffrey\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{fullhash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{fullhashraw}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{bibnamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorbibnamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authornamehash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorfullhash}{dbb57a0517b8764e7718838f66bcb965}
+      \strng{authorfullhashraw}{dbb57a0517b8764e7718838f66bcb965}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Preprint}
+      \field{title}{Order invariance of the generalized {Rosenblatt} transform on standard {Borel} spaces}
+      \field{year}{2026}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ctcovington.github.io/papers/egrt_foundations.pdf
+      \endverb
+      \verb{url}
+      \verb https://ctcovington.github.io/papers/egrt_foundations.pdf
+      \endverb
+      \keyw{theory}
     \endentry
     \entry{covington2025unbiased}{article}{}{}
       \name{author}{4}{}{%
@@ -208,7 +211,7 @@
       \strng{authornamehash}{dbb57a0517b8764e7718838f66bcb965}
       \strng{authorfullhash}{dbb57a0517b8764e7718838f66bcb965}
       \strng{authorfullhashraw}{dbb57a0517b8764e7718838f66bcb965}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -249,7 +252,7 @@
       \strng{authornamehash}{dbb57a0517b8764e7718838f66bcb965}
       \strng{authorfullhash}{dbb57a0517b8764e7718838f66bcb965}
       \strng{authorfullhashraw}{dbb57a0517b8764e7718838f66bcb965}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}

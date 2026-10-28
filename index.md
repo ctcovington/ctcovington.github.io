@@ -5,12 +5,13 @@ tagline:
 description:
 ---
 
-<img src="christian_pic.jpg" alt="profile_picture" width="1000"/> 
+<img src="christian_pic.png" alt="profile_picture" width="1000"/> 
 
 ---
 
 ### About Me 
-I am a rising fifth-year PhD student in Biostatistics at Harvard University advised by [Jeff Miller](https://jwmi.github.io).
+I am a final year PhD student in Biostatistics at Harvard University advised by [Jeff Miller](https://jwmi.github.io), graduating in December 2026.
+
 I am interested primarily in issues related to model misspecification and
 representing uncertainty due to model selection/specification.
 
@@ -19,6 +20,10 @@ representing uncertainty due to model selection/specification.
 ---
 
 ### Research
+
+- **Order invariance of the generalized Rosenblatt transform on standard Borel spaces** \\
+Christian Covington, Jeff Miller \\
+[[Article](https://ctcovington.github.io/papers/egrt_foundations.pdf)]
 
 - **A powerful goodness-of-fit test using the probability integral transform of order statistics** \\
 Christian Covington, Jeff Miller \\
