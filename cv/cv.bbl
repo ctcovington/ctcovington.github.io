@@ -122,15 +122,13 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Preprint}
+      \field{eprintclass}{stat.TH}
+      \field{eprinttype}{arXiv}
       \field{title}{Order invariance of the generalized {Rosenblatt} transform on standard {Borel} spaces}
       \field{year}{2026}
       \true{nocite}
-      \verb{urlraw}
-      \verb https://ctcovington.github.io/papers/egrt_foundations.pdf
-      \endverb
-      \verb{url}
-      \verb https://ctcovington.github.io/papers/egrt_foundations.pdf
+      \verb{eprint}
+      \verb 2610.38818
       \endverb
       \keyw{theory}
     \endentry

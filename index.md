@@ -22,16 +22,16 @@ representing uncertainty due to model selection/specification.
 ### Research
 
 - **Order invariance of the generalized Rosenblatt transform on standard Borel spaces** \\
-Christian Covington, Jeff Miller \\
-[[Article](https://ctcovington.github.io/papers/egrt_foundations.pdf)]
+Christian T Covington, Jeffrey W Miller \\
+[[Article](https://arxiv.org/abs/2610.38818)]
 
 - **A powerful goodness-of-fit test using the probability integral transform of order statistics** \\
-Christian Covington, Jeff Miller \\
+Christian T Covington, Jeffrey W Miller \\
 [[Article](https://arxiv.org/abs/2510.22854)]
 [[Code](https://github.com/ctcovington/PITOS)]
 
 - **Bayesian model criticism using uniform parametrization checks** \\
-Christian Covington, Jeff Miller \\
+Christian T Covington, Jeffrey W Miller \\
     - Presented poster at [Columbia University Optimization and Statistical Learning Workshop (2025)](https://stat.columbia.edu/optimization-and-statistical-learning-workshop/) \\
 [[Article](https://arxiv.org/abs/2503.18261)]
 
