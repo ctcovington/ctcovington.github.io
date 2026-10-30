@@ -1,6 +1,12 @@
 % --- SHARED CV BODY ---
 % Included by cv.tex (public) and cv-private.tex (private).
-% \ifprivatecv must be defined (via \newif) and set before this file is input.
+% The wrappers set \ifprivatecv before inputting this file. If it is compiled
+% on its own, the flag is defined here and defaults to the public version.
+% (\csname keeps the literal \ifprivatecv token out of the skipped branch,
+% which would otherwise unbalance the \fi.)
+\ifcsname ifprivatecv\endcsname\else
+  \expandafter\newif\csname ifprivatecv\endcsname
+\fi
 \documentclass[11pt, letterpaper]{article}
 
 % --- PACKAGES ---
